@@ -218,5 +218,9 @@
   {
     "isoName": "zh-TW",
     "nativeName": "中文（繁體）"
-  }
+  },
+  {
+    "isoName": "kz",
+    "nativeName": "Kazakh"
+  }  
 ]
